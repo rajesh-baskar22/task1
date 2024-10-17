@@ -1,0 +1,407 @@
+
+#navigation{
+   display: inline-flex;
+    gap: 8%;
+    font-size: medium;
+    margin-left: auto;
+
+}
+#bdy{
+    text-align: center; 
+     
+}
+
+#tour{
+    height: 400px;
+    font-size: x-large;
+    width: 400px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+#now{
+    border:2px orange;
+    font-size: medium;
+    color: orange;
+    margin-top: 15px;
+    margin-left: 50px;
+
+}
+
+#img{
+  position: relative;
+  margin-top: 100px;
+  margin-left: 800px;
+  background-size: contain;
+
+
+ 
+}
+body{
+    background-color: whitesmoke;
+   
+   
+}
+#Footer{
+   display: inline-flex;
+    gap:10%;
+    margin-left: 500px; 
+    margin-top: 100px;
+    height: 10%;
+    width: 40%;
+    font-size: x-small;
+    border-radius: 4px;  
+    padding: 1%;
+    box-shadow: silver 2px 2px 2px 2px;   
+}
+
+.div1{
+    text-align: center;
+   padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+
+#div1{
+    color: rgb(96, 94, 94);
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    justify-content: center ;
+    margin-top: 7%;
+    position: absolute;
+}
+
+.box1{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    padding: 20px;
+    
+    height: 90px;
+    width: 150px;
+    /* text-align: center; */
+    box-shadow: 0px 4px;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    gap:20%;
+    color: rgb(75, 72, 75);
+    font-size: x-small;
+    border: 1px solid black;
+}
+
+.box{
+   text-align: center;
+   justify-items: center;
+   background-color:  whitesmoke;
+   
+   
+  
+}
+.p{
+    color: rgb(96, 94, 94);
+}
+
+.p1 {
+   
+    text-align: center;
+    color: rgb(96, 94, 94);
+   
+}
+
+.location{
+  margin-left: 35%;
+}
+.p2{
+    text-align: center;
+    color: black;
+   padding: 2px;
+}
+.box-section  {
+    background-color: rgb(222, 24, 24);
+    padding: 100px;
+    
+}
+.box-image {    
+    display: inline-block;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: medium; 
+    border: 1px solid lightgray;
+    
+}
+.slider{
+    padding-left: 70%;
+   
+}
+
+.vacation{
+   
+    gap:5%; 
+    
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 5%;
+    margin-left: 25%;
+    
+}
+
+
+.info {
+   background-color: rgb(226, 91, 42);
+   text-align: center;
+   color: white;
+   padding: 10px;
+   margin: 4px 0px;
+   height:300px;
+   width:800px;
+   border-radius: 6px;
+   margin-bottom: 4px;
+   margin-left: 20%;
+   margin-top: 5%;
+   
+}
+.click{
+    display: flex;
+    gap: 5%;
+    /* width: 400px; */
+    /* height: 100px; */
+    /* border: 1px solid black; */
+   
+}
+.detail {
+    padding: 5px;
+    font-size: medium;
+    width: 50%;
+}
+
+
+.end {
+    display: flex;
+    text-align: center;
+}
+footer {
+    justify-content: center;
+    align-items: center;
+  
+    width: 100%;
+    display: block;
+   
+
+}
+#cards{
+    display: inline-flex;
+    gap: 2%;
+    margin-left: 10%;
+}
+.mad{
+    position: absolute;
+}
+.rating{
+    margin-left: 80%;
+    margin-top: 10%;
+    position: relative;
+}
+.place{
+    position: absolute;
+}
+.price{
+    margin-left: 20%;
+    position: relative;
+    margin-left: 65%;
+}
+
+
+
+ .mad1{
+    position: absolute;
+
+}
+.rating1 {
+    margin-left: 70%;
+    margin-top: 8%;
+    position: relative;
+}
+.place1 {
+    position: absolute;
+    
+}
+.price1 {
+    margin-left: 20%;
+    position: relative;
+    margin-left: 65%;
+}
+
+
+#booknow{
+    height: 30px;
+    width: 100px;
+    
+}
+.text{
+    text-align: center;
+}
+
+.com{
+    text-align: center;
+}
+.amazing{
+    height: 280px;
+    width: 200px;
+    border: 1px solid lightgray;
+}
+.card3{
+    display: inline-flex;
+    gap: 2%;
+    margin-left: 20%;
+}
+#email{
+    width: 30%;
+    height: 4%;
+    position: absolute;
+    
+}
+#subscribe{
+    position: relative;
+    margin-left: 45%;
+    margin-top: 3px;
+    background-color: rgb(255, 98, 0);
+    color: white;
+    font-size: x-small;
+    height: 30px;
+    width: 70px;
+    border: 0px;
+    border-radius: 5px;
+}
+#round{
+    margin-left: 10%;
+}
+
+.page{
+    margin-top: 80px;
+
+}
+#footer{
+    position: absolute;
+}
+.logo{
+    position: relative;
+}
+#tree{
+    margin-left: 30%;
+    margin-bottom: 15%;
+}
+#circle{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.mike{
+  
+    width: 350px;
+    height: 170px;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    margin-top: 2%;
+}
+#man{
+    display: flex;
+    gap: 5%;
+    position: absolute;
+    width: 100%;
+}
+#review{
+    height: 300px;
+    width: 300px;
+
+    margin-left: 20%;
+}
+#good{
+    position: relative;
+   
+}
+#good2{
+    background-color: rgb(226, 226, 233);
+    margin-left: 50%;
+    margin-top: 6%;
+    font-size: small;
+    padding: 5px;
+}
+#size{
+    height: 100px;
+}
+#now{
+    background-color: rgb(255, 106, 0);
+    color: white;
+    height:30px;
+    border-radius: 3px;
+    
+}
+#plane{
+    margin-left: 65%;
+    position: relative;
+    margin-top: 9%;
+
+}
+#now1{
+    background-color: rgb(255, 106, 0);
+    color: white;
+    border: 0px;
+    width: 100px;
+    border-radius: 5px 5px 5px 5px;
+    
+}
+#but{
+    width: 100px;
+    color: orange;
+    border: 0px;
+}
+#int {
+    display: inline-flex;
+    background-color: rgb(255, 98, 0);
+    color: white;
+    border-radius: 15px ;
+}
+#fac {
+    display: inline-flex;
+    background-color: white;
+    border-radius: 15px;
+}
+#twi{
+    display: inline-flex;
+    background-color: white;
+    border-radius: 15px;
+}
+.dot{
+   margin-left: 50%;
+   margin-bottom: 20px;
+}
+
+#term{
+    margin-left: 80%;
+    
+}
+#book{
+    font-size: medium;
+}
+#airo{
+    margin-left: 100%;
+    
+    margin-top: -100%;
+}
+#trabook{
+    margin-left: -6%;
+    margin-top: 1%;
+    display: flex;
+}
+#hii{
+    margin-top: -2px;
+    margin-left: -20%;
+}
